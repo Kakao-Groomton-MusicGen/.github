@@ -49,6 +49,18 @@ M.U.T.E는 다음과 같은 사용자들을 위해 설계되었습니다:
 
 ---
 
+## **Sequence Diagram**
+
+![Sequence Diagram*](https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F8b6f698e-8a67-4ad1-94b0-53ee956264c9%2F4988c6e8-5e4f-4884-b2ea-c2a8d4941930%2Fimage.png?table=block&id=b12e5f0f-a5b7-4a5b-bde7-f38bb2dc41b7&spaceId=8b6f698e-8a67-4ad1-94b0-53ee956264c9&width=1340&userId=51dd97ed-4b7f-4f0a-bc29-4e7109794d96&cache=v2)
+
+---
+
+## **ERD**
+
+![ERD](https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F8b6f698e-8a67-4ad1-94b0-53ee956264c9%2Fb0cfd539-c445-4e97-9521-a02f433ee9ba%2Fimage.png?table=block&id=281617e3-aba6-4bad-a507-285a4f733f2c&spaceId=8b6f698e-8a67-4ad1-94b0-53ee956264c9&width=1340&userId=51dd97ed-4b7f-4f0a-bc29-4e7109794d96&cache=v2)
+
+---
+
 ## **Cloud Architecture**
 
 ![Cloud Architecture](https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F8b6f698e-8a67-4ad1-94b0-53ee956264c9%2F91ff88c8-b547-46f6-befa-586985f3319c%2Fimage.png?table=block&id=1073ac76-91d3-4b56-aea4-36620996f3ae&spaceId=8b6f698e-8a67-4ad1-94b0-53ee956264c9&width=1800&userId=51dd97ed-4b7f-4f0a-bc29-4e7109794d96&cache=v2)
