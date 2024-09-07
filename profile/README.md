@@ -87,4 +87,8 @@ TEMU는 음악을 통해 기술과 교육을 연결하는 혁신적인 음악 �
 - **Jayden.Jeon (전종건)** - 풀스택(BE)
 - **Nunu.Gu (구연우)** - 풀스택(FE)
 - **Lyle.Kim (김승주)** - 클라우드
-- **Uno.Han (한승주)** - 클라우드
+- **Uno.Hann (한윤호)** - 클라우드 (발표)
+
+## 해커톤 발표 자료
+[26_TEMU_해커톤_발표자료.pdf](https://github.com/user-attachments/files/16915264/26_TEMU_._.pdf)
+
