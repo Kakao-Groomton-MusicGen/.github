@@ -57,7 +57,8 @@ M.U.T.E는 다음과 같은 사용자들을 위해 설계되었습니다:
 
 ## **ERD**
 
-![ERD](https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F8b6f698e-8a67-4ad1-94b0-53ee956264c9%2Fb0cfd539-c445-4e97-9521-a02f433ee9ba%2Fimage.png?table=block&id=281617e3-aba6-4bad-a507-285a4f733f2c&spaceId=8b6f698e-8a67-4ad1-94b0-53ee956264c9&width=1340&userId=51dd97ed-4b7f-4f0a-bc29-4e7109794d96&cache=v2)
+<img width="1142" alt="스크린샷 2024-09-05 오후 8 10 46" src="https://github.com/user-attachments/assets/f514b68a-c27a-4151-be85-0b7cdb58a9ed">
+
 
 ---
 
@@ -75,6 +76,13 @@ M.U.T.E는 다음과 같은 사용자들을 위해 설계되었습니다:
 - **AI 통합**: Flask, LLM(OpenAI API), [Suno API](https://github.com/gcui-art/suno-api/)
     - [AI API 명세서](https://suno.gcui.ai/docs)
 - **클라우드 인프라**: AWS (VPC, EC2, S3, RDS, ECR), Docker, Jenkins (CI/CD)
+
+| **구분**      | **기술**        |
+| ------------- | --------------- |
+| 프론트엔드    | <img src="https://img.shields.io/badge/NextJS-000000?style=flat-square&logo=Next.js&logoColor=white"/>         |
+| 백엔드           | <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/> <img src="https://img.shields.io/badge/TypeORM-FE0803?style=flat-square&logo=typeorm&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>         |
+| AI  | <img src="https://img.shields.io/badge/flask-48b0c3?style=flat-square&logo=flask&logoColor=white"/>   <img src="https://img.shields.io/badge/openai-412991?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/suno-ff4b4b?style=flat-square&logo=suno&logoColor=white"/>   |
+| 클라우드(인프라)  | <img src="https://img.shields.io/badge/AmazonEC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>  <img src="https://img.shields.io/badge/AmazonS3-569A31?style=flat-square&logo=AmazonS3&logoColor=white"/> <img src="https://img.shields.io/badge/AmazonRDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white"/> <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>  <img src="https://img.shields.io/badge/jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>      |
 
 ---
 
