@@ -84,8 +84,8 @@ TEMU는 음악을 통해 기술과 교육을 연결하는 혁신적인 음악 �
 
 - **Toby.Kim (김대현)** - 팀장 / AI
 - **KC.Kim (김찬영)** - AI
-- **Jayden.Jeon (전종건)** - 풀스택(BE)
-- **Nunu.Gu (구연우)** - 풀스택(FE)
+- **Jayden.Jeon (전종건)** - 풀스택(FE)
+- **Nunu.Gu (구연우)** - 풀스택(BE)
 - **Lyle.Kim (김승주)** - 클라우드
 - **Uno.Hann (한윤호)** - 클라우드 (발표)
 
