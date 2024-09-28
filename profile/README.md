@@ -1,4 +1,5 @@
-![Start image](https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F8b6f698e-8a67-4ad1-94b0-53ee956264c9%2F389cc308-b397-416f-ad8d-9f08498b9de1%2F364748453-c1f81d69-6928-4e23-934c-d99dc888f6b1.png?table=block&id=b989659d-3e84-4e2f-9ee5-082048ebb684&spaceId=8b6f698e-8a67-4ad1-94b0-53ee956264c9&width=1800&userId=51dd97ed-4b7f-4f0a-bc29-4e7109794d96&cache=v2)
+![364748453-c1f81d69-6928-4e23-934c-d99dc888f6b1](https://github.com/user-attachments/assets/e1cf0c71-c8f8-4861-a41a-098093a4c8ca)
+
 
 # TEMU
 
