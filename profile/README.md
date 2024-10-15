@@ -46,13 +46,15 @@ M.U.T.E는 다음과 같은 사용자들을 위해 설계되었습니다:
 2. 시스템이 AI를 통해 동요를 생성하고 다운로드 링크를 제공합니다.
 3. 사용자는 생성된 동요를 공유 게시판에 업로드할 수 있습니다.
 
-![User Flow](https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F8b6f698e-8a67-4ad1-94b0-53ee956264c9%2Fea8c854d-09b8-4c56-a62d-f9f1f2398930%2Fimage.png?table=block&id=cf47da19-a6f6-456e-b6a1-60d8354a58ad&spaceId=8b6f698e-8a67-4ad1-94b0-53ee956264c9&width=1800&userId=51dd97ed-4b7f-4f0a-bc29-4e7109794d96&cache=v2)
+![KakaoTalk_Photo_2024-10-15-16-39-49](https://github.com/user-attachments/assets/7aa75002-e049-419e-ab0d-03d707a9e88b)
 
 ---
 
 ## **Sequence Diagram**
 
-![Sequence Diagram*](https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F8b6f698e-8a67-4ad1-94b0-53ee956264c9%2F4988c6e8-5e4f-4884-b2ea-c2a8d4941930%2Fimage.png?table=block&id=b12e5f0f-a5b7-4a5b-bde7-f38bb2dc41b7&spaceId=8b6f698e-8a67-4ad1-94b0-53ee956264c9&width=1340&userId=51dd97ed-4b7f-4f0a-bc29-4e7109794d96&cache=v2)
+<img width="967" alt="KakaoTalk_Photo_2024-10-15-16-35-41 002" src="https://github.com/user-attachments/assets/720de8ad-99c0-4a0a-9597-1bdfa99ceb31">
+<img width="886" alt="KakaoTalk_Photo_2024-10-15-16-35-41 001" src="https://github.com/user-attachments/assets/3b5c6cf3-afb4-480c-b3f7-0a57817f3522">
+
 
 ---
 
@@ -65,7 +67,8 @@ M.U.T.E는 다음과 같은 사용자들을 위해 설계되었습니다:
 
 ## **Cloud Architecture**
 
-![Cloud Architecture](https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F8b6f698e-8a67-4ad1-94b0-53ee956264c9%2F91ff88c8-b547-46f6-befa-586985f3319c%2Fimage.png?table=block&id=1073ac76-91d3-4b56-aea4-36620996f3ae&spaceId=8b6f698e-8a67-4ad1-94b0-53ee956264c9&width=1800&userId=51dd97ed-4b7f-4f0a-bc29-4e7109794d96&cache=v2)
+![KakaoTalk_Photo_2024-10-15-16-34-05](https://github.com/user-attachments/assets/191d3563-1c95-4de4-94de-24cc30c7bac0)
+
 
 ---
 
